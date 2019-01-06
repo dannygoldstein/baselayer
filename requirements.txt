@@ -1,6 +1,6 @@
 psycopg2
 pyyaml
-tornado==4.5.3
+tornado
 pyzmq
 pyjwt
 distributed>=1.21.1
